@@ -149,20 +149,8 @@ This space is reserved for what's next — check back often.
 
 <img src="https://streak-stats.demolab.com/?user=Harish-2005-19&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Harish-2005-19&theme=react-dark&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=ffffff" width="100%" />
 
 </div>
-
-### 🏆 Trophy Case
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Harish-2005-19&no-frame=true&row=1&column=6" />
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3&width=100%" />
-
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=120&section=footer" />
 
 <div align="center">
 <i>Thanks for scrolling this far — let's build something together 🚀</i>
