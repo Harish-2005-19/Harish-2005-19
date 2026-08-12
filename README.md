@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=220&section=header&text=HARISH%20T%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20Web%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=650&lines=Final-Year+CSE+Undergraduate;Java+%26+Web+Development;Exploring+Artificial+Intelligence;Always+Building+Something+New" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Final-Year+CSE+Undergraduate;Java+%26+Web+Development;Exploring+Artificial+Intelligence;Always+Building+Something+New" alt="Typing SVG" />
 
 <br/>
 
@@ -123,6 +123,20 @@ This space is reserved for what's next — check back often.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3&width=100%" />
 
+## 📜 Certifications
+
+<div align="center">
+
+| Certification | Provider |
+|---|---|
+| Internet of Things (IoT) | NPTEL |
+| Cloud Computing | NPTEL |
+| Google Cloud Foundations | Google Cloud |
+| Introduction to Terraform on GCP | Google Cloud |
+| Renewable Energy Technology Fundamentals | — |
+| Six Sigma Advanced Improve and Control Phases | — |
+
+</div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3&width=100%" />
 
@@ -142,10 +156,13 @@ This space is reserved for what's next — check back often.
 ### 🏆 Trophy Case
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Harish-2005-19&theme=darkhub&no-frame=true&row=1&column=6&margin-w=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=Harish-2005-19&no-frame=true&row=1&column=6" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3&width=100%" />
+
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=120&section=footer" />
 
 <div align="center">
 <i>Thanks for scrolling this far — let's build something together 🚀</i>
