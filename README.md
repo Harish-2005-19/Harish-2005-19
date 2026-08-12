@@ -1,157 +1,256 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=220&section=header&text=HARISH%20T%20S&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20Developer%20%7C%20Web%20Developer%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=18" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:6C63FF&height=250&section=header&text=HARISH%20T%20S&fontSize=64&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20Web%20Development%20%7C%20Artificial%20Intelligence&descAlignY=60&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=750&lines=Final-Year+CSE+Undergraduate;Java+%26+Web+Development;Exploring+Artificial+Intelligence;Always+Building+Something+New" alt="Typing SVG" />
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=750&lines=Final-Year+CSE+Undergraduate;Java+Developer;Web+Developer;AI+Enthusiast;Turning+Ideas+Into+Projects"/>
 
-<a href="https://www.linkedin.com/in/t-s-harish-b2b028289/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Harish-2005-19"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://leetcode.com/u/iam_harish_2005/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<a href="mailto:harishts2510@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<br><br>
 
-<img src="https://komarev.com/ghpvc/?username=Harish-2005-19&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" />
+<a href="https://www.linkedin.com/in/t-s-harish-b2b028289/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Harish-2005-19">
+<img src="https://img.shields.io/badge/GitHub-Follow-24243E?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/iam_harish_2005/">
+<img src="https://img.shields.io/badge/LeetCode-Profile-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="mailto:harishts2510@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=Harish-2005-19&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3&width=100%" />
+# 👋 Hello, I'm Harish
 
-## 🧑‍💻 About Me
+I'm a **Final-Year Computer Science & Engineering undergraduate** passionate about building software, exploring artificial intelligence, and solving real-world problems through technology.
 
-```java
-public class Harish {
-    private String role     = "Final-Year CSE Undergraduate";
-    private String[] focus  = {"Java", "Web Development", "Artificial Intelligence"};
-    private String location = "Tiruppur, Tamil Nadu, India";
-    private String degree   = "B.E. Computer Science and Engineering (2023 - 2027)";
-    private String cgpa     = "7.59";
+I enjoy working with **Java, web technologies, databases, and AI**, while continuously improving my problem-solving and development skills.
 
-    public static void main(String[] args) {
-        System.out.println("Building things, one commit at a time 🚀");
-    }
-}
-```
+### 🎓 Education
 
-- 🎓 B.E. CSE @ **Dr. NGP Institute of Technology** — CGPA: 7.59
-- 🌱 Currently sharpening **Java, DSA & Databases**
-- 🤝 Teamwork · Communication · Problem Solving · Adaptability
-- 📫 Reach me at **harishts2510@gmail.com**
+**B.E. Computer Science and Engineering**  
+Dr. NGP Institute of Technology · 2023 – 2027
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3&width=100%" />
+**CGPA:** 7.66
 
-## 🛠️ Tech Arsenal
+📍 Tiruppur, Tamil Nadu, India
+
+### 🌱 Currently Learning
+
+- Java & Advanced Java
+- Data Structures & Algorithms
+- Spring Boot
+- SQL & Database Systems
+- Generative AI & LLMs
+- Cloud Technologies
+
+---
+
+# 💻 Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=java,mysql,html,css,git,github,vscode&theme=dark&perline=7" />
+### Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,js&theme=dark"/>
+
+<br><br>
+
+### Web Development
+
+<img src="https://skillicons.dev/icons?i=html,css,spring&theme=dark"/>
+
+<br><br>
+
+### Database & Backend
+
+<img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark"/>
+
+<br><br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea&theme=dark"/>
 
 </div>
 
-<br/>
+---
 
-<div align="center">
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-
-**Core Subjects:** `Data Structures & Algorithms` `DBMS` `OOP`
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3&width=100%" />
-
-## 🚀 Featured Projects
+# 🚀 Projects
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-### 🌾 AgriChain
-**Farmer-to-Consumer Marketplace**
+<h3>🌾 AgriChain</h3>
 
-A web-based marketplace enabling farmers to sell products directly to consumers, cutting out the middleman.
+<b>Blockchain-Based Agricultural Supply Chain</b>
 
-- Improved transparency in agricultural transactions
-- Built a simple, user-friendly experience for both sides
+<br><br>
+
+A platform designed to improve transparency in agricultural transactions by connecting farmers and consumers more directly.
+
+**Key Features**
+
+- Farmer-to-consumer marketplace
+- Transparent transactions
+- Product tracking
+- Simple user experience
 
 </td>
+
 <td width="50%" valign="top">
 
-### 🏠 Co-Living Space Finder
-**HTML · CSS · Firebase**
+<h3>🏠 Co-Living Space Finder</h3>
 
-A web-based co-living platform connecting property owners with tenants seeking rentals.
+<b>Web-Based Rental Platform</b>
 
-- Property listing & rental posting features
-- Clean, user-friendly browsing interface
+<br><br>
+
+A platform that helps users discover co-living spaces while allowing property owners to publish and manage rental listings.
+
+**Technology**
+
+`HTML` `CSS` `Firebase`
+
+**Key Features**
+
+- Property listings
+- Rental posting
+- Space discovery
+- Firebase integration
 
 </td>
+
 </tr>
+
 <tr>
+
 <td width="50%" valign="top">
 
-### 🔔 Touch Activation Door Bell Alarm
-**Embedded Systems**
+<h3>🔔 Touch Activation Door Bell Alarm</h3>
 
-A touch-activated alarm system for basic security applications.
+<b>Embedded Security Project</b>
 
-- Circuit design that triggers an alarm on touch detection
-- Hands-on hardware integration experience
+<br><br>
+
+A touch-activated alarm system designed for basic security applications.
+
+**Key Features**
+
+- Touch detection
+- Alarm activation
+- Hardware integration
+- Circuit implementation
 
 </td>
+
 <td width="50%" valign="top">
 
-### 📌 More Coming Soon
-**Always Building**
+<h3>🤖 Nova AI</h3>
 
-This space is reserved for what's next — check back often.
+<b>AI-Powered Chatbot</b>
 
-- Pin your top repos here from *Customize your pins*
-- New project, new story
+<br><br>
+
+A conversational AI application built with a Java backend and modern web interface.
+
+**Technology**
+
+`Java` `Spring Boot` `HTML` `CSS` `JavaScript`
+
+**Key Features**
+
+- AI-powered conversations
+- Conversation memory
+- Modern chat interface
+- REST API integration
 
 </td>
+
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3&width=100%" />
+---
 
-## 📜 Certifications
+# 🧠 What I'm Interested In
 
 <div align="center">
 
-| Certification | Provider |
-|---|---|
-| Internet of Things (IoT) | NPTEL |
-| Cloud Computing | NPTEL |
-| Google Cloud Foundations | Google Cloud |
-| Introduction to Terraform on GCP | Google Cloud |
-| Renewable Energy Technology Fundamentals | — |
-| Six Sigma Advanced Improve and Control Phases | — |
+| 💻 Software | 🤖 Artificial Intelligence | ☁️ Cloud & Data |
+|:---:|:---:|:---:|
+| Java | Machine Learning | Cloud Computing |
+| Spring Boot | Generative AI | Data Engineering |
+| Web Development | LLMs | SQL & Databases |
+| DSA | AI Applications | Distributed Systems |
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2C5364,100:0F2027&height=3&width=100%" />
+---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Harish-2005-19&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&cache_seconds=1" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-2005-19&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&cache_seconds=1" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Harish-2005-19&show_icons=true&hide_border=true&bg_color=14121F&title_color=A78BFA&icon_color=22D3EE&text_color=E5E7EB&count_private=true"/>
 
-<img src="https://streak-stats.demolab.com/?user=Harish-2005-19&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF" alt="GitHub Streak" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-2005-19&layout=compact&hide_border=true&bg_color=14121F&title_color=A78BFA&text_color=E5E7EB"/>
 
+<br><br>
+
+<img width="75%" src="https://streak-stats.demolab.com/?user=Harish-2005-19&hide_border=true&background=14121F&ring=A78BFA&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=E5E7EB&dates=9CA3AF"/>
 
 </div>
 
+---
+
+# 🎯 Current Goals
+
 <div align="center">
-<i>Thanks for scrolling this far — let's build something together 🚀</i>
+
+**Strengthen Java** · **Master DSA** · **Build Better Projects**
+
+**Learn Spring Boot** · **Explore Generative AI** · **Contribute to Open Source**
+
+</div>
+
+---
+
+# 🤝 Let's Connect
+
+<div align="center">
+
+I'm always interested in **technology, software development, AI, and new ideas.**
+
+<br>
+
+<a href="https://www.linkedin.com/in/t-s-harish-b2b028289/">
+<img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Harish-2005-19">
+<img src="https://img.shields.io/badge/GitHub-24243E?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="mailto:harishts2510@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,50:243B55,100:141E30&height=130&section=footer"/>
+
 </div>
