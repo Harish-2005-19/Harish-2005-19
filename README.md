@@ -67,7 +67,7 @@ A touch-activated alarm system for basic security applications.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harish-2005-19&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Harish-2005-19&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
