@@ -6,9 +6,9 @@
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/t-s-harish-b2b028289/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/Harish-2005-19"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/YOUR-LEETCODE"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/iam_harish_2005/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
   <a href="mailto:harishts2510@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -59,11 +59,22 @@ A touch-activated alarm system for basic security applications.
 
 ---
 
+### 📜 Certifications
+
+- NPTEL — Internet of Things (IoT)
+- NPTEL — Cloud Computing
+- Google Cloud Foundations
+- Introduction to Terraform on Google Cloud Platform
+- Renewable Energy Technology Fundamentals
+- Six Sigma Advanced Improve and Control Phases
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harish-2005-19&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-2005-19&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Harish-2005-19&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harish-2005-19&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1" />
 </p>
 
 <p align="center">
